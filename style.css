@@ -36,9 +36,9 @@
 
 /* Section - Parallax */
 /**************************/
-#parallax-world-of-ugg .parallax-one {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/NGTpzNT8/mishal-ibrahim-U2-VQr-A-z8-Qs-unsplash.jpg); background-attachment: fixed; background-size: 100%; -moz-background-size: 100%; -webkit-background-size: 100%; background-repeat: no-repeat; background-position: top center;}
-#parallax-world-of-ugg .parallax-two {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/XqpQDMZK/nasa-Q1p7bh3-SHj8-unsplash.jpg); background-attachment: fixed; background-size: 100%; -moz-background-size: 100%; -webkit-background-size: 100%; background-repeat: no-repeat; background-position: center center;}
-#parallax-world-of-ugg .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/8CGD84mf/caspar-camille-rubin-f-Pkv-U7-RDm-Co-unsplash.jpg); background-attachment: fixed; background-size: 100%; -moz-background-size:100%; -webkit-background-size: 100%; background-repeat: no-repeat; background-position: center center;}
+#parallax-world-of-ugg .parallax-one {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/NGTpzNT8/mishal-ibrahim-U2-VQr-A-z8-Qs-unsplash.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+#parallax-world-of-ugg .parallax-two {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/XqpQDMZK/nasa-Q1p7bh3-SHj8-unsplash.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#parallax-world-of-ugg .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/8CGD84mf/caspar-camille-rubin-f-Pkv-U7-RDm-Co-unsplash.jpg); background-attachment: fixed; background-size: cover; -moz-background-size:cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
 
 /* Extras */
 /**************************/
