@@ -54,8 +54,8 @@
   #parallax-world-of-ugg h2 {font-size:30px;}
   #parallax-world-of-ugg .block {padding: 30px;}
   #parallax-world-of-ugg .parallax-one, #parallax-world-of-ugg .parallax-two, #parallax-world-of-ugg .parallax-three {padding-top:100px; padding-bottom:100px;}
-  .parallax-two{background-image: url(https://i.postimg.cc/mg4y5jJ8/nasa-OVO8n-K-7-Rfs-unsplash.jpg)}
-  .parallax-three{background-image:url(https://i.postimg.cc/MpGvHjQz/mitchell-luo-FWoq-ld-Wl-NQ-unsplash.jpg)}
+  #parallax-world-of-ugg .parallax-two{background-image: url(https://i.postimg.cc/mg4y5jJ8/nasa-OVO8n-K-7-Rfs-unsplash.jpg)}
+  #parallax-world-of-ugg .parallax-three{background-image:url(https://i.postimg.cc/MpGvHjQz/mitchell-luo-FWoq-ld-Wl-NQ-unsplash.jpg)}
 }
 @media screen and (max-width: 479px) {
   #parallax-world-of-ugg .block {padding: 30px 15px; width:290px;}
