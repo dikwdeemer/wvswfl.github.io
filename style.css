@@ -54,6 +54,9 @@
   #parallax-world-of-ugg h2 {font-size:30px;}
   #parallax-world-of-ugg .block {padding: 30px;}
   #parallax-world-of-ugg .parallax-one, #parallax-world-of-ugg .parallax-two, #parallax-world-of-ugg .parallax-three {padding-top:100px; padding-bottom:100px;}
+  #parallax-world-of-ugg .parallax-one {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/NGTpzNT8/mishal-ibrahim-U2-VQr-A-z8-Qs-unsplash.jpg); background-attachment: fixed; background-size: contain; -moz-background-size: contain; -webkit-background-size: contain; background-repeat: no-repeat; background-position: top center;}
+  #parallax-world-of-ugg .parallax-two {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/XqpQDMZK/nasa-Q1p7bh3-SHj8-unsplash.jpg); background-attachment: fixed; background-size: contain; -moz-background-size: contain; -webkit-background-size: contain; background-repeat: no-repeat; background-position: center center;}
+  #parallax-world-of-ugg .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://i.postimg.cc/8CGD84mf/caspar-camille-rubin-f-Pkv-U7-RDm-Co-unsplash.jpg); background-attachment: fixed; background-size: contain; -moz-background-size: contain; -webkit-background-size: contain; background-repeat: no-repeat; background-position: center center;}
 }
 @media screen and (max-width: 479px) {
   #parallax-world-of-ugg .block {padding: 30px 15px; width:290px;}
