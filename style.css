@@ -67,7 +67,7 @@ header, .logo
   right: 300px;
 }
 
-.showcase video
+.showcase iframe
 {
   position: absolute;
   top: 0;
