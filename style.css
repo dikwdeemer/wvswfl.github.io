@@ -257,7 +257,7 @@ color: #03a9f4;
   top: 0;
   width: 90%;
   height: 100%;
-  background: #92ff00;;
+  background: #92ff00;
   transition: 0.5s ease-in-out;
 }
 .animated_share_btn:after {
@@ -270,7 +270,7 @@ color: #03a9f4;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(17, 17, 17, 0.471);
+  background-color: #92ff00;
   width: 90%;
   height: 100%;
   transition: 0.5s ease-in-out;
