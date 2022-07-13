@@ -236,7 +236,7 @@ dt, h4, small, .green
 .animated_share_btn a {
   display: inline-block;
   font-size: 1.5em;
-  background-color: rgba(0, 0, 0, 0.333) !important;
+  background-color: rgba(0, 0, 0, 0) !important;
   padding: 10px 30px;
   text-transform: uppercase;
   text-decoration: none;
