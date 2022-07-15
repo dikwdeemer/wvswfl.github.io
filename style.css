@@ -5,6 +5,9 @@ body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
+b {
+  background-color: rgba(255, 255, 255, 0.5);
+}
 .pink {
   color: #dc32aa;
   background-color:white;
@@ -40,7 +43,7 @@ body {
 .avatar {
   width: 65px;
   height: 65px;
-  background: url('https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/236950752_152902303572557_1438739778707142400_n.png?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=ASYoZq0PDXAAX_fS5K4&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT8JnQt2kiM6kKqgIdm9zaKohVJjLNTF1nO_wZlFC7aI5g&oe=62D4DD04');
+  background: url('./logo.png');
   background-size: 100%;
   border-radius: 50%;
 }
@@ -106,17 +109,16 @@ body {
 }
 .menu-button:hover {
   background-color: #dc32aa;
-  border: 2px solid #faac35;
   color: #fff;
   transition: 0.5s;
 }
 .hero-info {
-  background: url('https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/241294200_170093621853425_4135551328391935720_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aBqa4XuCZ8UAX_PnhqK&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT_-sddYxzESxwCox3G7wNY4GmK0vuEzf7vRP54P6bIX3Q&oe=62D4FBA8') no-repeat right bottom;
+  background: url('./logo2.png') no-repeat right bottom;
   padding-top: 112px;
   padding-bottom: 112px;
-  background-position-x:25em;
-  background-position-y:-5em;
-  background-size:79%;
+  background-position-x:400px;
+  background-position-y:-300px;
+  background-size:cover;
 }
 .hero-subtitle {
   font-size: 32px;
@@ -317,8 +319,11 @@ body {
 }
 .footer {
   background-color:#55319d;
-  padding: 20px 0px;
+  padding: 20px 20px;
   color: #8d8d8e;
+  width: 100%;
+  margin: 0%;
+
 }
 .footer a {
   color: #fff ;
@@ -340,7 +345,7 @@ body {
 }
 .footer-social__link {
   font-size: 20px;
-  margin-right: 13px;
+  margin-right: 10px;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -430,15 +435,15 @@ body {
   text-align: center;
   font-size: 30px;
   float: left;
-  padding: .2em;
+  padding: 4px;
   font-weight: bold;
     
   /* Change the shape according
       to the image */
   shape-outside: circle();
   background-color: #dc32aa;
-  background: url('https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/236950752_152902303572557_1438739778707142400_n.png?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=ASYoZq0PDXAAX_fS5K4&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT8JnQt2kiM6kKqgIdm9zaKohVJjLNTF1nO_wZlFC7aI5g&oe=62D4DD04');
-  background-size: cover;
+  background: url('./logo2.png');
+  background-size: contain;
   color: #413f41;
 }
 #contribute {
@@ -567,13 +572,13 @@ th {
     width: 95%;
   }
   .hero-subtitle {
-    font-size: 30px;
+    font-size: 15px;
   }
   .hero-title {
-    font-size: 42px;
+    font-size: 20px;
   }
   .description_small {
-    font-size: 15px;
+    font-size: 5px;
   }
   .menu-list {
     display: none;
@@ -583,16 +588,16 @@ th {
     margin: 30px auto;
   }
   .hero-info {
-    background: url('https://wmpics.pics/di-CFIR.png') no-repeat right bottom;
+    background: url('./logo.png') no-repeat right bottom;
     padding-top: 30px;
     padding-bottom: 550px;
   }
   .button {
-    font-size: 25px;
+    font-size: 20px;
     padding: 13px 26px;
   }
   * {
-    font-size: 40px; 
+    font-size: 15px; 
   }
   .about_title {
     font-size: 40px;
