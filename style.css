@@ -212,7 +212,17 @@ b {
   color: #6a696b;
   border: 3px solid #faac35;
 }
+.button-o2:hover {
+  background-color: transparent;
+  color: black;
+  border: 3px solid #faac35;
+}
 .button-o:hover {
+  color: #fff;
+  background-color:  #dc32aa;
+  border: 3px solid #dc32aa;
+}
+.button-o2: {
   color: #fff;
   background-color:  #dc32aa;
   border: 3px solid #dc32aa;
@@ -446,7 +456,7 @@ position:relative;
       to the image */
   shape-outside: circle();
   background-color: #dc32aa;
-  background: url('./Imageslogo2.png');
+  background: url('./Images/logo2.png');
   background-size: contain;
   color: #413f41;
 }
