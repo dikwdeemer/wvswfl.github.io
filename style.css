@@ -43,7 +43,7 @@ b {
 .avatar {
   width: 65px;
   height: 65px;
-  background: url('./logo.png');
+  background: url('./Images/logo.png');
   background-size: 100%;
   border-radius: 50%;
 }
@@ -113,7 +113,7 @@ b {
   transition: 0.5s;
 }
 .hero-info {
-  background: url('./logo2.png') no-repeat right bottom;
+  background: url('./Images/logo2.png') no-repeat right bottom;
   padding-top: 112px;
   padding-bottom: 112px;
   background-position-x:400px;
@@ -319,7 +319,7 @@ b {
 }
 .about_left {
 position:relative;
-  top:20px;
+  top:100px;
 }
 .footer {
   background-color:#55319d;
@@ -446,7 +446,7 @@ position:relative;
       to the image */
   shape-outside: circle();
   background-color: #dc32aa;
-  background: url('./logo2.png');
+  background: url('./Imageslogo2.png');
   background-size: contain;
   color: #413f41;
 }
@@ -592,7 +592,7 @@ th {
     margin: 30px auto;
   }
   .hero-info {
-    background: url('./logo.png') no-repeat right bottom;
+    background: url('./Images/logo.png') no-repeat right bottom;
     padding-top: 30px;
     padding-bottom: 550px;
   }
