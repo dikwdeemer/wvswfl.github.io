@@ -8,6 +8,10 @@ body {
 b {
   background-color: rgba(255, 255, 255, 0.5);
 }
+a {
+ color: #55319d;
+ text-decoration: none;
+}
 .pink {
   color: #dc32aa;
   background-color:white;
@@ -109,6 +113,7 @@ b {
 }
 .menu-button:hover {
   background-color: #dc32aa;
+  border: 2px solid #dc32aa;
   color: #fff;
   transition: 0.5s;
 }
@@ -209,23 +214,25 @@ b {
 }
 .button-o {
   background-color: transparent;
-  color: #6a696b;
+  color: black;
   border: 3px solid #faac35;
 }
 .button-o2:hover {
   background-color: transparent;
   color: black;
-  border: 3px solid #faac35;
+  border: 3px solid #dc32aa;
 }
 .button-o:hover {
   color: #fff;
-  background-color:  #dc32aa;
-  border: 3px solid #dc32aa;
+  background-color:  #faac35;
+  border: 3px solid #faac35;
 }
-.button-o2: {
+.button-o2 {
   color: #fff;
   background-color:  #dc32aa;
   border: 3px solid #dc32aa;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 .projects {
   padding: 97px 0px;
@@ -250,7 +257,7 @@ b {
   background-repeat: no-repeat;
 }
 .landing-page {
-  background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+  background: url('https://www.gannett-cdn.com/presto/2022/04/24/NSHT/066abb97-b2ec-41b8-ac82-550feee859ed-SAR-042522-March-rally-calls-out-legislation-001.JPG?width=592&format=pjpg&auto=webp&quality=70') center;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -260,22 +267,22 @@ b {
   background-repeat: no-repeat;
 }
 .landing-page_3 {
-  background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+  background: url('./Images/logo2.png') center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .landing-page_4 {
-  background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+  background: url('https://external.ftpa1-1.fna.fbcdn.net/emg1/v/t13/8519773359321947093?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5T7uF_66C5A%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=00_AT-4336o78OyiU3IJOIxMOcciSC2XCuZkeiDi7EtNMbaSQ&oe=62D4EF7A&_nc_sid=c504da') center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .corporate-page {
-  background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+  background: url('https://i.ytimg.com/vi/_fpxL2heGR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKcu5bYXlwPE6FtiyGhfP9rE2LNg') center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .corporate-page_2 {
-  background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+  background: url('https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/290746236_362561349273317_5575844670415851583_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=340051&_nc_ohc=ouDOi0PUikYAX_NqjJn&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT84bLNzPE1E_SxdWOM1iAWpFleFPmdZQ0Z_DQ8o0XkFeA&oe=62D7E5E8') center;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -572,6 +579,18 @@ th {
   }
   .about_left {
      display:none;
+}
+.round {
+  margin: 5%;
+  padding: 0%;
+  display: center;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.cont_p {
+  text-align:left;
+  margin-bottom: 0 !important;
 }
 }
 @media screen and (max-width: 805px) {
