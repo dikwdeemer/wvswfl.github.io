@@ -319,7 +319,7 @@ b {
 }
 .about_left {
 position:relative;
-  top:150px;
+  top:200px;
 }
 .footer {
   background-color:#55319d;
@@ -560,6 +560,9 @@ th {
     margin: 0 auto;
     margin-top: 20px;
   }
+  .about_left {
+     display:none;
+}
 }
 @media screen and (max-width: 805px) {
   .hero-info {
