@@ -1,0 +1,3 @@
+This is your event sub-directory you may store one event flyer here titled event.pdf to automatically have it served by your webpage. 
+The document must be in pdf format and be titled event.pdf with that exact spelling to work. Always make sure to overwrite the old file or delete when
+uploading a new file to avoid conflict ENJOY!
