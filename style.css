@@ -317,6 +317,10 @@ b {
   font-size: 1.2em;
   margin-bottom: 53px;
 }
+.about_left {
+position:relative;
+  top:20px;
+}
 .footer {
   background-color:#55319d;
   padding: 20px 20px;
