@@ -118,7 +118,7 @@ a {
   transition: 0.5s;
 }
 .hero-info {
-  background: url('./Images/logo2.png') no-repeat right bottom;
+  background: url('./Images/logo2clear.png') no-repeat;
   padding-top: 112px;
   padding-bottom: 112px;
   background-position-x:400px;
@@ -456,15 +456,16 @@ position:relative;
   text-align: center;
   font-size: 30px;
   float: left;
-  padding: 4px;
+  padding: 10px;
   font-weight: bold;
     
   /* Change the shape according
       to the image */
   shape-outside: circle();
   background-color: #dc32aa;
-  background: url('./Images/logo2.png');
-  background-size: contain;
+  background: url('./Images/logoSmall.jpg');
+  background-size: cover;
+  margin: 2px;
   color: #413f41;
 }
 #contribute {
@@ -624,9 +625,11 @@ th {
     margin: 30px auto;
   }
   .hero-info {
-    background: url('./Images/logo.png') no-repeat right bottom;
-    padding-top: 30px;
-    padding-bottom: 550px;
+    background: url('./Images/logo2clear.png') no-repeat;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-position-x: 400px;
+    background-position-y: -100px;
   }
   .button {
     font-size: 20px;
