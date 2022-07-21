@@ -38,14 +38,14 @@ function toggle() {
   t = x.length-1,
   y = x[t];
 
-if(y == 'side.png')
+if(y == 'side.webp')
 {
-theImg.src='./Images/side-white.png'
+theImg.src='./Images/side-white.webp'
 }
 
-if(y == 'side-white.png')
+if(y == 'side-white.webp')
 {
-theImg.src='./Images/side.png'
+theImg.src='./Images/side.webp'
 }
 }
 
