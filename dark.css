@@ -50,7 +50,7 @@
   .avatar {
     width: 65px;
     height: 65px;
-    background: url('./Images/black.png');
+    background: url('./Images/black.webp');
     background-size: 100%;
     border-radius: 50%;
   }
@@ -122,7 +122,7 @@
     transition: 0.5s;
   }
   .hero-info {
-    background: url('./Images/black.png') no-repeat;
+    background: url('./Images/black.webp') no-repeat;
     padding-top: 112px;
     padding-bottom: 112px;
     background-position-x:400px;
@@ -264,22 +264,22 @@
     background-color: none;
   }
   .landing-page {
-    background: url('https://www.gannett-cdn.com/presto/2022/04/24/NSHT/066abb97-b2ec-41b8-ac82-550feee859ed-SAR-042522-March-rally-calls-out-legislation-001.JPG?width=592&format=pjpg&auto=webp&quality=70') center;
+    background: url('./Images/bridge.webp') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
   .landing-page_2 {
-    background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+    background: url('./Images/dontfas.webp') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
   .landing-page_3 {
-    background: url('./Images/logo2.png') center;
+    background: url('./Images/logo2.webp') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
   .landing-page_4 {
-    background: url('https://external.ftpa1-1.fna.fbcdn.net/emg1/v/t13/8519773359321947093?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5T7uF_66C5A%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=00_AT-4336o78OyiU3IJOIxMOcciSC2XCuZkeiDi7EtNMbaSQ&oe=62D4EF7A&_nc_sid=c504da') center;
+    background: url('./Images/black&white_snake_charmer.webp') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -289,10 +289,11 @@
     background-repeat: no-repeat;
   }
   .corporate-page_2 {
-    background: url('https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/290746236_362561349273317_5575844670415851583_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=340051&_nc_ohc=ouDOi0PUikYAX_NqjJn&_nc_ht=scontent.ftpa1-1.fna&oh=00_AT84bLNzPE1E_SxdWOM1iAWpFleFPmdZQ0Z_DQ8o0XkFeA&oe=62D7E5E8') center;
+    background: url('./Images/wedis.webp') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
+  /*
   .corporate-page_3 {
     background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
     background-size: cover;
@@ -304,10 +305,11 @@
     background-repeat: no-repeat;
   }
   .taxi-page {
-    background: url('https://scontent.ftpa1-2.fna.fbcdn.net/v/t39.30808-6/293452846_372197624976356_2558336926858774524_n.jpg?stp=c0.7.526.275a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=340051&_nc_ohc=XZGI4GdMlpkAX_Qm4zV&_nc_ht=scontent.ftpa1-2.fna&oh=00_AT-0py-wgtmnQ5ibS6iO_xmXC8mvAwA7caPal-9tUAMuOA&oe=62D57496') center;
+    background: url('./Images/wedis.jpg') center;
     background-size: cover;
     background-repeat: no-repeat;
   }
+  */
   .project-card__info {
     padding: 19px 13px;
   }
@@ -472,7 +474,7 @@
         to the image */
     shape-outside: circle();
     background-color: #dc32aa;
-    background: url('./Images/balck2.png');
+    background: url('./Images/balck2.webp');
     background-size: contain;
     background-repeat: no-repeat;
     margin: 2px;
@@ -674,7 +676,7 @@
       margin: 30px auto;
     }
     .hero-info {
-      background: url('./Images/logo2clear.png') no-repeat;
+      background: url('./Images/logo2clear.webp') no-repeat;
       padding-top: 10px;
       padding-bottom: 50px;
       background-position-x: 400px;
