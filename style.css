@@ -559,6 +559,12 @@ color:#55319d;
     background-repeat: no-repeat;
     background-size: 10em;
   }
+  .backdrop {
+    background-image: url(./Images/black&white.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color:#faac35;
+  }
 @media screen and (max-width: 1200px) {
   .container {
     width: 965px;
