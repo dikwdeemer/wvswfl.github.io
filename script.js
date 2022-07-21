@@ -29,3 +29,31 @@ $(document).ready(function(){
     } // End if
   });
 });
+function toggle() {
+  var a = document.getElementById("style1");
+  a.x = 'dark' == a.x ? 'style' : 'dark'; // short if
+  a.href = a.x + '.css';
+  var theImg = document.getElementById("sideImage"),
+  x = theImg.src.split("/"),
+  t = x.length-1,
+  y = x[t];
+
+if(y == 'side.png')
+{
+theImg.src='./Images/side-white.png'
+}
+
+if(y == 'side-white.png')
+{
+theImg.src='./Images/side.png'
+}
+}
+
+const button = document.getElementsByClassName('link-button')
+button.onclick = () => {
+  navigator.clipboard.writeText(window.location.href);
+}
+
+
+
+  
