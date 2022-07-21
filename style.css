@@ -565,6 +565,9 @@ color:#55319d;
     background-repeat: no-repeat;
     color:#faac35;
   }
+  .store:hover {
+   color: #dc32aa;
+  }
 @media screen and (max-width: 1200px) {
   .container {
     width: 965px;
